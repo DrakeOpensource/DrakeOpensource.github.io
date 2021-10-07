@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3dc1f03e.chunk.css",
+    "main.js": "/static/js/main.fa7f790a.chunk.js",
+    "main.js.map": "/static/js/main.fa7f790a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.24d18504.js",
+    "runtime-main.js.map": "/static/js/runtime-main.24d18504.js.map",
+    "static/css/2.aa16a85b.chunk.css": "/static/css/2.aa16a85b.chunk.css",
+    "static/js/2.8a4e25b9.chunk.js": "/static/js/2.8a4e25b9.chunk.js",
+    "static/js/2.8a4e25b9.chunk.js.map": "/static/js/2.8a4e25b9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.aa16a85b.chunk.css.map": "/static/css/2.aa16a85b.chunk.css.map",
+    "static/css/main.3dc1f03e.chunk.css.map": "/static/css/main.3dc1f03e.chunk.css.map",
+    "static/js/2.8a4e25b9.chunk.js.LICENSE.txt": "/static/js/2.8a4e25b9.chunk.js.LICENSE.txt",
+    "static/media/404.bb9f7314.jpg": "/static/media/404.bb9f7314.jpg",
+    "static/media/android-chrome-512x512.213611de.png": "/static/media/android-chrome-512x512.213611de.png",
+    "static/media/low_k_lasik.3cac3e7b.pdf": "/static/media/low_k_lasik.3cac3e7b.pdf",
+    "static/media/ml-tree-trans.e766f57a.png": "/static/media/ml-tree-trans.e766f57a.png",
+    "static/media/index.css": "/static/media/roboto-vietnamese-400-normal.c0bec65d.woff2",
+    "static/media/prof_head_cropped_circle.597e8641.png": "/static/media/prof_head_cropped_circle.597e8641.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24d18504.js",
+    "static/css/2.aa16a85b.chunk.css",
+    "static/js/2.8a4e25b9.chunk.js",
+    "static/css/main.3dc1f03e.chunk.css",
+    "static/js/main.fa7f790a.chunk.js"
+  ]
+}
