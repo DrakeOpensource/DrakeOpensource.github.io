@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.bd47c689.chunk.css",
-    "main.js": "/static/js/main.033ac796.chunk.js",
-    "main.js.map": "/static/js/main.033ac796.chunk.js.map",
+    "main.js": "/static/js/main.e5a67965.chunk.js",
+    "main.js.map": "/static/js/main.e5a67965.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.24d18504.js",
     "runtime-main.js.map": "/static/js/runtime-main.24d18504.js.map",
     "static/css/2.af05d52a.chunk.css": "/static/css/2.af05d52a.chunk.css",
@@ -18,13 +18,13 @@
     "static/media/ml-tree-trans.e766f57a.png": "/static/media/ml-tree-trans.e766f57a.png",
     "static/media/index.css": "/static/media/roboto-vietnamese-400-normal.c0bec65d.woff2",
     "static/media/prof_head_cropped_circle.597e8641.png": "/static/media/prof_head_cropped_circle.597e8641.png",
-    "static/media/rd-data-analyst-resume.752342ea.pdf": "/static/media/rd-data-analyst-resume.752342ea.pdf"
+    "static/media/rd-data-resume.6cea06f5.pdf": "/static/media/rd-data-resume.6cea06f5.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.24d18504.js",
     "static/css/2.af05d52a.chunk.css",
     "static/js/2.e65424a5.chunk.js",
     "static/css/main.bd47c689.chunk.css",
-    "static/js/main.033ac796.chunk.js"
+    "static/js/main.e5a67965.chunk.js"
   ]
 }
